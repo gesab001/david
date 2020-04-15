@@ -1,7 +1,5 @@
-package com.giovannisaberon.simplestories;
+package com.giovannisaberon.david;
 
-import android.annotation.TargetApi;
-import android.app.ActionBar;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
@@ -9,7 +7,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.AsyncTask;
-import android.os.Build;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;

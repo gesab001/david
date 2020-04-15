@@ -1,4 +1,4 @@
-package com.giovannisaberon.simplestories;
+package com.giovannisaberon.david;
 
 import org.junit.Test;
 

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.giovannisaberon.simplestories.MainActivity$PlaceholderFragment">
+    tools:context="com.giovannisaberon.david.MainActivity$PlaceholderFragment">
 
 
 
@@ -20,7 +20,10 @@
 
     <TextView
         android:id="@+id/section_label"
-        android:layout_width="match_parent"
+        android:textColor="@color/colorBlack"
+        android:layout_width="wrap_content"
+        android:paddingLeft="12px"
+        android:paddingRight="12px"
         android:layout_height="match_parent"
         android:layout_weight="6"/>
 </android.support.v7.widget.LinearLayoutCompat>

@@ -1,4 +1,4 @@
-package com.giovannisaberon.simplestories;
+package com.giovannisaberon.david;
 
 import android.content.Context;
 import android.content.res.AssetManager;
